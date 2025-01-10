@@ -11,7 +11,7 @@ This repository demonstrates how to use the Google T5 (Text-to-Text Transfer Tra
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/language-translation-t5.git
+  github.com/HajaraCM/Language-translation-using-google-t5-with-gradio.git
    cd language-translation-t5
    ```
 
