@@ -31,14 +31,14 @@ The main libraries used in this project are:
 
 Run the following command to start the Gradio interface:
 ```
-python app.py
+interface.launch()
 ```
 
 Once the script is running, you can access the interface in your browser at `http://127.0.0.1:7860/`.
 
 ## Code Structure
 
-The main functionality is implemented in `app.py`. It includes:
+The main functionality is implemented in `language translation google t5.ipynb`. It includes:
 - Loading the T5 model and tokenizer.
 - Defining the `translate_text` function to handle translation tasks.
 - Setting up a Gradio interface for user interaction.
