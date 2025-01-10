@@ -10,13 +10,13 @@ This repository demonstrates how to use the Google T5 (Text-to-Text Transfer Tra
 ## Installation
 
 1. Clone the repository:
-   ```bash
+   ```
   github.com/HajaraCM/Language-translation-using-google-t5-with-gradio.git
    cd language-translation-t5
    ```
 
 2. Install the required dependencies:
-   ```bash
+   ```
    pip install -r requirements.txt
    ```
 
@@ -29,7 +29,7 @@ The main libraries used in this project are:
 ## Usage
 
 Run the following command to start the Gradio interface:
-```bash
+```
 python app.py
 ```
 
