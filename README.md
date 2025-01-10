@@ -53,6 +53,9 @@ gradio
 
 ### Gradio Interface
 
+
+https://github.com/user-attachments/assets/6be25c42-823e-4e49-b1b4-6888d1d775bf
+
 ## Future Enhancements
 - Add support for more languages.
 - Improve the user interface.
